@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 .col-xs-12, .col-sm-4{
     margin-top: 60px;
 }
@@ -88,8 +91,15 @@ td{
 a .fa1{
     margin-top: 100%;
 }
-.footer{
+.carousel{
     min-width: 100%;
+    max-width: 100%;
+}
+footer{
+     min-width: 110%;
+}
+.footer{
+   
     background-color: dimgrey;
     color: aliceblue;
     margin-top: 20px;
