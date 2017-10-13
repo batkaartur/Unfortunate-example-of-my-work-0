@@ -1,0 +1,78 @@
+body{
+    overflow-x: hidden;
+    padding-top: 50px;
+}
+.distantion{
+    min-height: 50px;
+}
+
+
+.mainTitle{
+    margin-top: 40px;
+    text-align: center;
+}
+h6{
+    color: gainsboro;
+    opacity: 0.7;
+}
+a:hover{
+
+    color: dimgrey;    
+}
+
+
+a{
+    
+    color: dimgrey;    
+}
+
+h6:hover{
+    color:gray;
+    opacity: 1;
+    transition: 0.3s;
+    
+}
+h1{
+    color: darkslategrey;
+}
+
+.marginCenter{
+    text-align: center;
+}
+.sdiv{
+    overflow: hidden;
+    border-style:dashed;
+    border-radius: 5px;
+    border-color: #d4d2d2;
+    display: block;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    }
+
+.sdiv img{
+   /* display: block;*/
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    float: left;
+}
+hr{
+    display: block;
+    margin: 0;
+    margin-right: 10px;
+    
+}
+.mtext{
+    max-height: 117px;
+    overflow: hidden;
+    display: block;
+    
+}
+.mtext-1{
+     max-height: 117px;
+    overflow: hidden;
+    display: block;
+}
