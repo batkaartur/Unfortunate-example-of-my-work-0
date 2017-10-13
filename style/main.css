@@ -1,0 +1,115 @@
+.col-xs-12, .col-sm-4{
+    margin-top: 60px;
+}
+.btn{
+    margin-top: 10px;
+}
+.no{
+    text-decoration:none;
+    color: currentColor;
+}
+.no:hover{
+    color: currentColor;
+}
+td:nth-child(3n){
+    border-right-style: solid;
+}
+.ac{
+    text-align: center;
+}
+.table-1{
+    color: aliceblue;
+ 
+}
+td:nth-child(3n){
+    border-right-style: groove;
+}
+td{
+    border-style: groove;
+    
+}
+.table-2{
+    color: black
+}
+
+.p1{
+    background-color: greenyellow; 
+}
+.p2{
+     background-color: #2faf2f;
+}
+.p3{
+    background-color: forestgreen;  
+}
+.p4{
+     background-color: darkseagreen;
+}
+.fo{
+    background-color: darkseagreen;
+       width: 25%;
+}
+.t{
+    background-color: forestgreen;
+       width: 25%;
+}
+.s{
+    background-color: #2faf2f;
+       width: 25%;
+}
+
+.f{
+    background-color: greenyellow;
+       width: 25%;
+}
+#up:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
+#up
+{
+    width:30px;
+    display:none;
+    height:30px;
+    position:fixed;
+    bottom:50px;
+    left:20px;
+    background-color:#000000;
+    border-radius:30px; 
+     opacity: 0.8;
+    z-index: 100;
+}  
+.pPageScroll
+{
+    color:#FFFFFF;
+    font:bold 12pt 'Comic Sans MS';
+    text-align:center;
+   
+}
+a .fa1{
+    margin-top: 100%;
+}
+.footer{
+    background-color: dimgrey;
+    color: aliceblue;
+    margin-top: 20px;
+}
+#mycarousel{
+    margin-top: 20px;
+}
+.modal{
+    max-width: 900px;
+    
+    margin: auto;
+}
+.modal-header h4{
+    text-align: center;
+}
+.modal-body img{
+    
+    float: left;
+    margin: 7px 7px; 7px 7px;
+}
+.caption{
+    max-height: 147px;
+    overflow:hidden;
+}
