@@ -89,6 +89,7 @@ a .fa1{
     margin-top: 100%;
 }
 .footer{
+    min-width: 100%;
     background-color: dimgrey;
     color: aliceblue;
     margin-top: 20px;
