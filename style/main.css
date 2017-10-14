@@ -95,7 +95,7 @@ a .fa1{
     margin-top: 100%;
 }
 .carousel{
-    min-width: 150%;
+    min-width: 100%;
   
 }
 footer{
@@ -106,6 +106,7 @@ footer{
     background-color: dimgrey;
     color: aliceblue;
     margin-top: 20px;
+    min-width: 150%
 }
 #mycarousel{
     margin-top: 20px;
