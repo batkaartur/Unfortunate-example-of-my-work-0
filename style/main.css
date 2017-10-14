@@ -1,6 +1,9 @@
 body{
     overflow-x: hidden;
 }
+.item img{
+    min-width: 100%;
+}
 .col-xs-12, .col-sm-4{
     margin-top: 60px;
 }
@@ -92,11 +95,11 @@ a .fa1{
     margin-top: 100%;
 }
 .carousel{
-    min-width: 100%;
-    max-width: 100%;
+    min-width: 150%;
+  
 }
 footer{
-     min-width: 110%;
+     min-width: 150%;
 }
 .footer{
    
