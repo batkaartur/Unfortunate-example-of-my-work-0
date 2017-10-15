@@ -1,5 +1,6 @@
 body{
     overflow-x: hidden;
+  
 }
 .distantion{
     min-height: 50px;
@@ -9,7 +10,6 @@ body{
 .mainTitle{
     margin-top: 40px;
     text-align: center;
-    margin: auto;
 }
 h6{
     color: gainsboro;

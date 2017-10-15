@@ -1,9 +1,3 @@
-body{
-    overflow-x: hidden;
-}
-.item img{
-    min-width: 100%;
-}
 .col-xs-12, .col-sm-4{
     margin-top: 60px;
 }
@@ -94,18 +88,18 @@ td{
 a .fa1{
     margin-top: 100%;
 }
-.carousel{
-    min-width: 100%;
-  
-}
-footer{
-     min-width: 150%;
-}
 .footer{
-   
     background-color: dimgrey;
     color: aliceblue;
     margin-top: 20px;
+}
+@media screen and (max-width:414px){
+    footer{
+        min-width: 150%;
+    }
+    .carousel{
+        min-width: 150%;
+    }
 }
 #mycarousel{
     margin-top: 20px;
