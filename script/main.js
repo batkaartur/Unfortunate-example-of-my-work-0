@@ -1,11 +1,17 @@
 $(document).ready(function(){
-    $(".btn").click(function(){
-      
-      
-      $(this).prev().removeClass("mtext");
-    $(this).remove();
-      
-   });
+    $(".rz").click(function(){
+        $(this).prev().slideToggle("slow");
+        $(this).fadeToggle("slow");
+        $(this).next().fadeToggle("slow");
+    });
+     $(".sv").click(function(){
+          $(this).prev().prev().slideToggle("slow");
+        $(this).fadeToggle("slow");
+        $(this).prev().fadeToggle("slow");
+    });
+     
+                    
+    
     
     $(".disabled").click(function(){
         alert("Страница в разработке");

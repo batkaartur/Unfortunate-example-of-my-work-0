@@ -65,9 +65,9 @@ hr{
     
 }
 .mtext{
-    max-height: 117px;
+   height:auto;
     overflow: hidden;
-    display: block;
+    display: none;
     
 }
 .mtext-1{

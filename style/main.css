@@ -104,6 +104,9 @@ a .fa1{
 #mycarousel{
     margin-top: 20px;
 }
+.sv{
+    display: none;
+}
 .modal{
     max-width: 900px;
     
